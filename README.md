@@ -1,4 +1,3 @@
-
 ##Hi, I'm Marcos Giavone 👋
 
 Computer Science student at UNIP, currently in my first semester, building my programming skills through hands-on projects.
