@@ -1,16 +1,44 @@
 ## Hi there 👋
+Hi, I'm Marcos Giavone 👋
 
-<!--
-**marcosgiavone/marcosgiavone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UNIP, currently in my first semester, building my programming skills through hands-on projects.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Science student at UNIP
+
+💻 Building my portfolio through personal projects
+
+🐍 Currently working with Python
+
+📚 Focused on learning programming fundamentals and improving my problem-solving skills
+
+Projects
+
+Caesar Cipher in Python
+
+A Python project exploring classical cryptography and fundamental programming concepts.
+
+Features include:
+
+Caesar cipher
+
+Substitution cipher
+
+Transposition cipher
+
+SHA-256 hashing
+
+Base64 encoding and decoding
+
+Automated tests
+
+Goals
+
+Strengthen my programming fundamentals
+
+Build practical projects and expand my portfolio
+
+Continue learning software development
+
+Always learning, building, and improving.
