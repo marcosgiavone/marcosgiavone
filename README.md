@@ -1,43 +1,43 @@
-Hi, I'm Marcos Giavone 👋
+Olá, eu sou o Marcos Giavone! 👋
 
-Computer Science student at UNIP, currently in my first semester, building my programming skills through hands-on projects.
+Sou estudante de Ciência da Computação, atualmente no primeiro semestre, desenvolvendo minhas habilidades em programação por meio de projetos práticos.
 
-About Me
+Sobre mim
 
-🎓 Computer Science student at UNIP
+🎓 Estudante de Ciência da Computação
 
-💻 Building my portfolio through personal projects
+💻 Construindo meu portfólio com projetos pessoais
 
-🐍 Currently working with Python
+🐍 Desenvolvendo projetos em Python
 
-📚 Focused on learning programming fundamentals and improving my problem-solving skills
+📚 Aprendendo fundamentos de programação e aprimorando minha capacidade de resolver problemas
 
-Projects
+Projetos
 
-Caesar Cipher in Python
+Cifra de César em Python
 
-A Python project exploring classical cryptography and fundamental programming concepts.
+Projeto desenvolvido para explorar técnicas clássicas de criptografia e conceitos fundamentais de programação.
 
-Features include:
+Funcionalidades:
 
-Caesar cipher
+Cifra de César
 
-Substitution cipher
+Cifra de substituição
 
-Transposition cipher
+Cifra de transposição
 
-SHA-256 hashing
+Hash SHA-256
 
-Base64 encoding and decoding
+Codificação e decodificação Base64
 
-Automated tests
+Testes automatizados
 
-Goals
+Objetivos
 
-Strengthen my programming fundamentals
+Fortalecer meus fundamentos de programação
 
-Build practical projects and expand my portfolio
+Desenvolver projetos práticos e ampliar meu portfólio
 
-Continue learning software development
+Continuar aprendendo sobre desenvolvimento de software
 
-Always learning, building, and improving.
+
